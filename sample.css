@@ -4,4 +4,14 @@ h1{
 p{
     color:yellow;
     font-size: 12px;
+    background-color:blue;
+    width: 35%;
+    height: 40%;
+}
+
+ul{
+ color:gray;
+ font-size: 30px;
+ background-color: lightblue;
+ 
 }
