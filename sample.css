@@ -1,5 +1,5 @@
 h1{
-    color:red;
+    color:gold;
 }
 p{
     color:yellow;
@@ -10,8 +10,10 @@ p{
 }
 
 ul{
- color:gray;
  font-size: 30px;
- background-color: lightblue;
+
  
+    background-color: royalblue;
+    font-size: 12px;
+    color:red;
 }
